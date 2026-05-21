@@ -3,7 +3,7 @@
 # <samp>喰 · JOÃO VITOR · 喰</samp>
 ### <samp>Full-Stack Developer & Creator</samp>
 
-![Banner](./tokyo.gif)
+<img src="./tokyo.gif" width="95%" height="auto" style="display: block; margin: 0 auto; border-radius: 10px; border: 2px solid #c41e1e; box-shadow: 0 0 30px rgba(196, 30, 30, 0.4);">
 
 </div>
 
@@ -47,7 +47,8 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
             <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">CSS3</div>
           </div>
-          <div style="text-align: center;">            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
+          <div style="text-align: center;">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
             <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">JavaScript</div>
           </div>
           <div style="text-align: center;">
@@ -97,6 +98,7 @@
 </table>
 
 </div>
+
 ---
 
 ## <samp>STATISTICS</samp>
@@ -145,7 +147,8 @@
 
 ![Footer](./imagem4.png)
 
-<div style="color: #eaeaea; margin-top: 30px; font-size: 1.3rem; font-weight: 500; letter-spacing: 0.1em; text-shadow: 0 0 20px rgba(196, 30, 30, 0.5);">  喰 JOÃO VITOR © 2024 喰
+<div style="color: #eaeaea; margin-top: 30px; font-size: 1.3rem; font-weight: 500; letter-spacing: 0.1em; text-shadow: 0 0 20px rgba(196, 30, 30, 0.5);">
+  喰 JOÃO VITOR © 2024 喰
 </div>
 
 </div>
