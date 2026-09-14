@@ -1,154 +1,181 @@
+<!-- ══════════════════════════ CABEALHO ══════════════════════════ -->
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=C41E1E&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%E5%92%96+JO%C3%83O+VITOR+%E5%92%96;Desenvolvedor+Full-Stack+%26+Criador" alt="Typing SVG" />
+</div>
 
-# <samp>喰 · JOÃO VITOR · 喰</samp>
-### <samp>Full-Stack Developer & Creator</samp>
+<div align="center">
+  <img src="./tokyo.gif" width="100%" style="border-radius: 12px; border: 2px solid #c41e1e; box-shadow: 0 0 40px rgba(196, 30, 30, 0.5);">
+</div>
 
-<img src="./tokyo.gif" width="95%" height="auto" style="display: block; margin: 0 auto; border-radius: 10px; border: 2px solid #c41e1e; box-shadow: 0 0 30px rgba(196, 30, 30, 0.4);">
+<br>
 
+<!-- ══════════════════════════ NAVEGAÇÃO ══════════════════════════ -->
+<div align="center">
+  <a href="#-sobre-mim"><img src="https://img.shields.io/badge/Sobre_Mim-0A0A0A?style=for-the-badge&labelColor=c41e1e" /></a>
+  <a href="#-habilidades"><img src="https://img.shields.io/badge/Habilidades-0A0A0A?style=for-the-badge&labelColor=c41e1e" /></a>
+  <a href="#-projetos-em-destaque"><img src="https://img.shields.io/badge/Projetos-0A0A0A?style=for-the-badge&labelColor=c41e1e" /></a>
+  <a href="#-estatísticas"><img src="https://img.shields.io/badge/Estatísticas-0A0A0A?style=for-the-badge&labelColor=c41e1e" /></a>
+  <a href="#-contato"><img src="https://img.shields.io/badge/Contato-0A0A0A?style=for-the-badge&labelColor=c41e1e" /></a>
 </div>
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 45px; margin: 35px 0; flex-wrap: wrap;">
-  <img src="./imagem2.png" width="280" style="border-radius: 12px; border: 2px solid #c41e1e; box-shadow: 0 0 35px rgba(196, 30, 30, 0.4);">
-  <div style="text-align: left; max-width: 600px; color: #eaeaea; line-height: 1.8; padding: 25px;">
-    <p style="font-size: 1.2rem; margin: 0 0 22px 0;">
-      Desenvolvedor especializado em criar soluções digitais imersivas com foco em experiência do usuário e performance. 
-      Transformando conceitos complexos em interfaces elegantes e sistemas robustos.
-    </p>
-    <p style="color: #c41e1e; font-style: italic; margin: 0; font-size: 1.1rem; letter-spacing: 0.05em;">
-      "A excelência está nos detalhes que ninguém percebe"
-    </p>
-  </div>
-</div>
-
----
-
-## <samp>SKILLS & TECHNOLOGIES</samp>
+## 🧬 SOBRE MIM
 
 <div align="center">
-
-<table style="width: 100%; max-width: 1000px; border-collapse: collapse; border-radius: 10px; overflow: hidden; background: rgba(5, 5, 5, 0.7); margin: 25px 0;">
-  <thead>
-    <tr style="background: rgba(10, 10, 10, 0.8); border-bottom: 2px solid #c41e1e;">
-      <th style="padding: 22px 15px; text-align: center; font-weight: 600; color: #c41e1e; width: 50%; border-right: 1px solid rgba(196, 30, 30, 0.3);">Linguagens</th>
-      <th style="padding: 22px 15px; text-align: center; font-weight: 600; color: #c41e1e; width: 50%;">Ferramentas & Frameworks</th>
-    </tr>
-  </thead>
-  <tbody>
+  <table>
     <tr>
-      <td style="padding: 28px; text-align: center; border-right: 1px solid rgba(196, 30, 30, 0.3);">
-        <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 45px;">
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">HTML5</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">CSS3</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">JavaScript</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">Java</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">Python</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">SQL</div>
-          </div>
-        </div>
+      <td width="35%">
+        <img src="./imagem2.png" width="100%" style="border-radius: 12px; border: 2px solid #c41e1e; box-shadow: 0 0 35px rgba(196, 30, 30, 0.4);">
       </td>
-      <td style="padding: 28px; text-align: center;">
-        <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 45px;">
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">Git</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.simpleicons.org/github/white" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">GitHub</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">VS Code</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">React</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">Tailwind</div>
-          </div>
-          <div style="text-align: center;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="58" height="58" style="filter: drop-shadow(0 0 10px rgba(196, 30, 30, 0.5));">
-            <div style="color: #eaeaea; margin-top: 14px; font-weight: 500; font-size: 1.05rem;">Node.js</div>
-          </div>
-        </div>
+      <td valign="top">
+        <h3>👋 Olá, eu sou o <span style="color:#c41e1e">João Vitor</span></h3>
+        <p>Desenvolvedor Full-Stack especializado em criar soluções digitais imersivas, com foco em <b>experiência do usuário</b> e <b>performance</b>. Transformo conceitos complexos em interfaces elegantes e sistemas robustos.</p>
+        <p>🎯 <b>Foco atual:</b> interfaces cinematográficas e sistemas web completos</p>
+        <p>🌱 <b>Aprendendo:</b> TypeScript, Next.js e Docker</p>
+        <p>🎮 <b>Fora do código:</b> streams na Twitch, música e lore de animes</p>
+        <p>⚡ <b>Lema:</b> "A excelência está nos detalhes que ninguém percebe."</p>
       </td>
     </tr>
-  </tbody>
+  </table>
+</div>
+
+---
+
+## ⚡ HABILIDADES
+
+<div align="center">
+  <h3>🎨 Front-end</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</div>
+
+<div align="center">
+  <h3>⚙️ Back-end & Banco de Dados</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+<div align="center">
+  <h3>🛠️ Ferramentas</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+---
+
+## 📁 PROJETOS EM DESTAQUE
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💰 Controle Financeiro 2.0</h3>
+      <p>Sistema web para organização de finanças pessoais, com registro de gastos, metas e visão geral do orçamento.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>
+        <a href="https://github.com/Lebot007/ControleFinanceiro2.0"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💉 Studio Tattoo Alisson</h3>
+      <p>Site portfólio para estúdio de tatuagem, com galeria de trabalhos e apresentação profissional do artista.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://lebot007.github.io/site-tattoo-alisson/"><img src="https://img.shields.io/badge/Ver_Online-c41e1e?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+        <a href="https://github.com/Lebot007/site-tattoo-alisson"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩸 Site Temático Kaneki</h3>
+      <p>Experiência imersiva no universo de Tokyo Ghoul: fichas de personagens, trilha sonora, vídeos e visual cinematográfico.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>
+        <a href="https://lebot007.github.io/site-tematico-Kaneki/"><img src="https://img.shields.io/badge/Ver_Online-c41e1e?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+        <a href="https://github.com/Lebot007/site-tematico-Kaneki"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Supplies Locação</h3>
+      <p>Site comercial para locação de equipamentos e supplies, com catálogo de máquinas e identidade visual própria.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://supplieslocacao.vercel.app/"><img src="https://img.shields.io/badge/Ver_Online-c41e1e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/Lebot007/SiteSupplies"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
-
 </div>
 
 ---
 
-## <samp>STATISTICS</samp>
+## 📊 ESTATÍSTICAS
 
-<div align="center" style="margin: 30px 0;">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lebot007&show_icons=true&theme=radical&bg_color=050505&border_color=c41e1e&icon_color=c41e1e&title_color=c41e1e&text_color=eaeaea" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebot007&layout=compact&theme=radical&bg_color=050505&border_color=c41e1e&title_color=c41e1e&text_color=eaeaea&langs_count=8" height="180"/>
+</div>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lebot007&theme=radical&background=050505&border=c41e1e&stroke=c41e1e&ring=c41e1e&fire=c41e1e&currStreakLabel=c41e1e&hide_border=false)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lebot007&theme=radical&background=050505&border=c41e1e&stroke=c41e1e&ring=c41e1e&fire=c41e1e&currStreakLabel=c41e1e" />
+</div>
 
+<!-- Animação da cobrinha: gere em https://github.com/Platane/snk para o usuário Lebot007 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lebot007/Lebot007/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Animação de contribuições" src="https://raw.githubusercontent.com/Lebot007/Lebot007/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-## <samp>CONNECTIONS</samp>
+## 📬 CONTATO
 
-<div align="center" style="margin: 35px 0; padding: 30px; border-radius: 14px; background: rgba(10, 10, 10, 0.7); border: 1px solid #c41e1e;">
-
-<a href="https://www.instagram.com/https.jvalves/" target="_blank" style="margin: 0 35px; display: inline-block;">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="60" height="60" style="filter: drop-shadow(0 0 12px rgba(228, 64, 95, 0.5));">
-</a>
-<a href="https://www.twitch.tv/Lebotz_gg" target="_blank" style="margin: 0 35px; display: inline-block;">
-  <img src="https://cdn.simpleicons.org/twitch/9146FF" width="60" height="60" style="filter: drop-shadow(0 0 12px rgba(145, 70, 255, 0.5));">
-</a>
-<a href="https://www.tiktok.com/@lebot_gg" target="_blank" style="margin: 0 35px; display: inline-block;">
-  <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="60" height="60" style="filter: drop-shadow(0 0 12px rgba(196, 30, 30, 0.5));">
-</a>
-<a href="https://open.spotify.com/user/o2fbtdnh53z6t6ca4v6wez8rz" target="_blank" style="margin: 0 35px; display: inline-block;">
-  <img src="https://cdn.simpleicons.org/spotify/1DB954" width="60" height="60" style="filter: drop-shadow(0 0 12px rgba(29, 185, 84, 0.5));">
-</a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-alves-rodrigues-15534830a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/https.jvalves/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.twitch.tv/Lebotz_gg" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@lebot_gg" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/o2fbtdnh53z6t6ca4v6wez8rz" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </div>
 
 ---
 
-<div align="center" style="margin-top: 45px; padding: 40px; border-top: 2px solid #c41e1e; border-bottom: 2px solid #c41e1e; background: #050505; border-radius: 14px;">
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 25px; margin: 30px 0; max-width: 850px;">
-  <div style="background: rgba(10, 10, 10, 0.8); padding: 30px; border-radius: 12px; border: 1px solid #c41e1e; width: 100%;">
-    <p style="color: #eaeaea; text-align: center; font-size: 1.3rem; line-height: 1.9; margin: 0; letter-spacing: 0.03em;">
-      "O verdadeiro poder está em criar soluções que transcendem as expectativas"
-    </p>
-    <p style="color: #c41e1e; text-align: right; margin-top: 20px; font-style: italic; font-size: 1.1rem; letter-spacing: 0.05em;">
-      — João Vitor
-    </p>
-  </div>
-</div>
-
-![Footer](./imagem4.png)
-
-<div style="color: #eaeaea; margin-top: 30px; font-size: 1.3rem; font-weight: 500; letter-spacing: 0.1em; text-shadow: 0 0 20px rgba(196, 30, 30, 0.5);">
-  喰 JOÃO VITOR © 2024 喰
-</div>
-
+<!-- ══════════════════════════ RODAPÉ ══════════════════════════ -->
+<div align="center">
+  <img src="./imagem4.png" width="100%">
+  <br><br>
+  <p style="color:#eaeaea; font-size:1.2rem; letter-spacing:0.03em;">"O verdadeiro poder está em criar soluções que transcendem as expectativas."</p>
+  <p style="color:#c41e1e; font-style:italic;">— João Vitor</p>
+  <br>
+  <h3 style="color:#c41e1e; letter-spacing:0.2em;">喰 • JOÃO VITOR © 2026 • 喰</h3>
+  <img src="https://profile-counter.glitch.me/Lebot007/count.svg" alt="Contador de visualizações" />
+  <br><br>
+  <a href="#top">⬆ Voltar ao topo</a>
 </div>
