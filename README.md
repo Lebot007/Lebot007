@@ -33,7 +33,7 @@
         <p>Desenvolvedor Full-Stack especializado em criar soluções digitais imersivas, com foco em <b>experiência do usuário</b> e <b>performance</b>. Transformo conceitos complexos em interfaces elegantes e sistemas robustos.</p>
         <p>🎯 <b>Foco atual:</b> interfaces cinematográficas e sistemas web completos</p>
         <p>🌱 <b>Aprendendo:</b> TypeScript, Next.js e Docker</p>
-        <p>🎮 <b>Fora do código:</b> streams na Twitch, música e lore de animes</p>
+        <p>🎮 <b>Fora do código:</b> gamer de plantão, música e lore de animes</p>
         <p>⚡ <b>Lema:</b> "A excelência está nos detalhes que ninguém percebe."</p>
       </td>
     </tr>
@@ -137,21 +137,19 @@
 ## 📊 ESTATÍSTICAS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lebot007&show_icons=true&theme=radical&bg_color=050505&border_color=c41e1e&icon_color=c41e1e&title_color=c41e1e&text_color=eaeaea" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebot007&layout=compact&theme=radical&bg_color=050505&border_color=c41e1e&title_color=c41e1e&text_color=eaeaea&langs_count=8" height="180"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lebot007&theme=radical&background=050505&border=c41e1e&stroke=c41e1e&ring=c41e1e&fire=c41e1e&currStreakLabel=c41e1e" />
 </div>
 
-<!-- Animação da cobrinha: gere em https://github.com/Platane/snk para o usuário Lebot007 -->
+<!-- Gráfico de contribuições (serviço estável, não depende de Vercel) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lebot007/Lebot007/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Animação de contribuições" src="https://raw.githubusercontent.com/Lebot007/Lebot007/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://ghchart.rshah.org/c41e1e/Lebot007" width="100%" alt="Gráfico de contribuições" />
 </div>
+
+<!-- OPCIONAL: animação da cobrinha. Só descomente depois de gerar em https://github.com/Platane/snk
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lebot007/Lebot007/output/github-contribution-grid-snake-dark.svg" alt="Animação de contribuições" />
+</div>
+-->
 
 ---
 
@@ -175,7 +173,6 @@
   <p style="color:#c41e1e; font-style:italic;">— João Vitor</p>
   <br>
   <h3 style="color:#c41e1e; letter-spacing:0.2em;">喰 • JOÃO VITOR © 2026 • 喰</h3>
-  <img src="https://profile-counter.glitch.me/Lebot007/count.svg" alt="Contador de visualizações" />
-  <br><br>
+  <br>
   <a href="#top">⬆ Voltar ao topo</a>
 </div>
