@@ -188,7 +188,7 @@
 ## 📊 ESTATÍSTICAS
 
 <div align="center">
-  <img height="195" src="https://streak-stats.demolab.com?user=Lebot007&hide_border=true&background=0D1117&border=C41E1E&stroke=C41E1E&ring=C41E1E&fire=C41E1E&currStreakLabel=C41E1E&sideLabels=C41E1E&dates=CCCCCC" alt="Streak stats" />
+  <img height="195" src="https://streak-stats.demolab.com?user=Lebot007&hide_border=true&background=0D1117&border=C41E1E&stroke=C41E1E&ring=C41E1E&fire=C41E1E&currStreakLabel=C41E1E&currStreakNum=FFFFFF&sideLabels=C41E1E&sideNums=FFFFFF&dates=CCCCCC" alt="Streak stats" />
   <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lebot007&theme=tokyonight" alt="Stats" />
 </div>
 
