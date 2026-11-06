@@ -10,7 +10,6 @@
 <div align="center">
   <a href="https://lebot007.github.io/site-joao/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-c41e1e?style=flat-square&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
   <a href="https://github.com/Lebot007?tab=followers"><img src="https://img.shields.io/github/followers/Lebot007?label=Seguidores&style=flat-square&color=dc143c" alt="Seguidores" /></a>
-  <a href="https://github.com/Lebot007?tab=repositories"><img src="https://img.shields.io/github/public_repos/Lebot007?label=Reposit%C3%B3rios&style=flat-square&color=dc143c" alt="Repositórios" /></a>
   <img src="https://komarev.com/ghpvc/?username=Lebot007&label=VISITANTES&color=c41e1e&style=flat-square" alt="Visitantes" />
 </div>
 
@@ -50,8 +49,8 @@
 
 > *"A excelência está nos detalhes que ninguém percebe."*
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 </div>
 
