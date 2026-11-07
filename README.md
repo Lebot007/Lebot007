@@ -9,6 +9,8 @@
   <img src="./assets/banner.gif" width="100%" alt="Higanbana, a flor de aranha vermelha símbolo de Tokyo Ghoul, desabrochando em animação" />
 </div>
 
+<br>
+
 <div align="center">
   <a href="https://lebot007.github.io/site-joao/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Online-c41e1e?style=flat-square&logo=githubpages&logoColor=white" alt="Link do portfólio online" /></a>
   <a href="https://github.com/Lebot007?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Lebot007?label=Seguidores&style=flat-square&color=dc143c" alt="Contador de seguidores" /></a>
