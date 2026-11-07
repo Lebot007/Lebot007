@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=C41E1E&center=true&vCenter=true&width=780&height=70&lines=%E5%96%B0+JO%C3%83O+VITOR+%E5%96%B0;Desenvolvedor+Full-Stack+%26+Criador;TypeScript+%C2%B7+React+%C2%B7+Node.js;1000+-+7+%3D+%3F" alt="Animação de digitação: nome, cargo e a conta 1000 - 7" width="780" />
 </div>
 
-<!-- Banner: Kaneki Ken com máscara de zíper, kakugan e kagune rinkaku — Tokyo Ghoul -->
+<!-- Banner: higanbana (flor de aranha vermelha) desabrochando — símbolo icônico de Tokyo Ghoul -->
 <div align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Kaneki Ken de Tokyo Ghoul: máscara de zíper, kakugan e kagune rinkaku" />
+  <img src="./assets/banner.gif" width="100%" alt="Higanbana, a flor de aranha vermelha símbolo de Tokyo Ghoul, desabrochando em animação" />
 </div>
 
 <div align="center">
